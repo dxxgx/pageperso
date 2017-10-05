@@ -1,0 +1,12 @@
+#wesh { color: inherit;}
+pre {
+	text-align: center;
+	background-color: grey;
+}
+body {
+	font-family: monospace;
+}
+#container{}
+
+header {
+	background-color: grey}
